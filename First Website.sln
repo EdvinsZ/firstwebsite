@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web Development", "Web Development", "{DA240309-1A13-4053-AF0C-17529731B3EE}"
+	ProjectSection(SolutionItems) = preProject
+		Contacts.html = Contacts.html
+		hobbies.html = hobbies.html
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "image", "image", "{9F7AE928-063D-4B09-BCCE-EB3A1506869D}"
+	ProjectSection(SolutionItems) = preProject
+		pot.jpg = pot.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9F7AE928-063D-4B09-BCCE-EB3A1506869D} = {DA240309-1A13-4053-AF0C-17529731B3EE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C298F342-0210-4A4E-8093-CFC7A0BE5553}
+	EndGlobalSection
+EndGlobal
